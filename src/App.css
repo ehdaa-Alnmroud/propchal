@@ -1,0 +1,97 @@
+.App {
+  text-align: center;
+}
+
+/* nav stayl */
+.navCl img{
+  height:  80px !important;
+}
+.logo{
+  margin: 0 300px 0 0px;
+
+}
+.nave{
+  color: red !important;
+  
+}
+.iitem{
+  color: black !important;
+  margin-left: 8px;
+}
+.iitem:hover{
+  color: red !important;
+}
+svg{
+   margin: 15px !important;
+}
+svg:hover{
+  fill: red !important;
+ 
+}
+/* car Card */
+.carCard{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  
+ 
+}
+/* cars stayk */
+.carsDi{
+ display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+ 
+  
+}
+span{
+  color: red;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+h5{
+  margin-bottom: 50px !important;
+}
+/* footer */
+.footter {
+background-color: #F8F9FA;
+  padding: 50px;
+}
+/* .mk{
+  list-style: none;
+    padding: 16px 0px;
+    margin: 16px 0px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+} */
+ul {
+  list-style: none;
+
+  padding: 16px 0px;
+
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+li {
+  margin: 10px !important;
+}
+.myp {
+  text-align: center !important;
+  align-items: center !important;
+ 
+}
+.buto{
+  width: 120px !important;
+}
